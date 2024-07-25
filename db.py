@@ -66,3 +66,4 @@ class Db:
         result = [r[0] for r in self._cur.fetchall()]
         return result
 
+

@@ -13,3 +13,4 @@ class ExecApi:
 
     def get_exercises(self):
         return self._exercise
+
